@@ -12,5 +12,5 @@ This is an example of a simple console app to calculate average number from a li
 
 ## 📖Documentation
 <a href="https://go.dev/doc/">Go doc</a></br>
-<a href="https://docs.docker.com/">Docker doc</a>
+<a href="https://docs.docker.com/">Docker doc</a></br>
 <a href="https://asciinema.org/docs/how-it-works">Asciinema doc</a>
